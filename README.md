@@ -2,4 +2,4 @@
 
 <h3> Neste projeto, o desafio foi criar uma api onde o usuário pesquisa pelo seu username ou de outra pessoa para ver o perfil do Github.</h3>
 
-- Foram usado apenas html, reactjs com a biblioteca styled-components.
+- Projeto feito com html e reactjs com a biblioteca styled-components.
