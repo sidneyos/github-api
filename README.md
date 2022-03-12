@@ -1,3 +1,5 @@
 <h1 align="center">Projeto Github-api Dio</h1>
 
-<p> Neste projeto o usuário pesquisa pelo seu username ou de outra pessoa para ver o perfil no github</p>
+<h3> Neste projeto, o desafio foi criar uma api onde o usuário pesquisa pelo seu username ou de outra pessoa para ver o perfil do Github.</h3>
+
+- foram usado apenas html, reactjs com a biblioteca styled-components.
